@@ -2,6 +2,9 @@
     "version": "4.0.2",
     "url": "https://ss1.xrea.com/pyonkichi.g1.xrea.com/archives/cl64_402.exe",
     "##": "自動でcapsをctrlに置き換える(要 管理者権限)",
+    "installer": {
+      "file": "cl64_402.exe"
+    },
     "bin": "CLaunch.exe",
     "shortcuts": [
         [
